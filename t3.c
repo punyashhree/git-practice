@@ -1,1 +1,1 @@
-line in t3.c
+t3 content
