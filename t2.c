@@ -1,1 +1,1 @@
-line in t2.c
+t2 content
